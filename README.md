@@ -1,5 +1,9 @@
 # Bootstack Highlight Monitor
 
+<p align="center">
+  <img src=".github/logo.png" alt="Bootstack-Highlight-Monitor logo" width="128" />
+</p>
+
 A placeholder for a monitoring tool from my time working at Canonical on
 the Bootstack team.
 
